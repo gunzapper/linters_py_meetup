@@ -1,0 +1,12 @@
+
+ * [PyFlake](https://github.com/PyCQA/pyflakes)
+ * [pycodestyle (PEP 8)]()
+ * [flake8](http://flake8.pycqa.org/en/latest/index.html#quickstart)
+ * [pydocstyle (PEP 257)]()
+ * [mypy (PEP 484)](https://github.com/python/mypy)
+ * [McCabe]()
+ * [pylint](https://pylint.readthedocs.io/en/latest/intro.html)
+ * [Randon]()
+ * [pylama](https://github.com/klen/pylama) 
+ * [pychecker](http://pychecker.sourceforge.net/)
+ * [git-lint](https://github.com/sk-/git-lint)
